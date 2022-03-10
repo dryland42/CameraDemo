@@ -1,0 +1,15 @@
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\bin\Debug\netstandard2.0\CameraDemo.deps.json
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\bin\Debug\netstandard2.0\CameraDemo.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\bin\Debug\netstandard2.0\CameraDemo.pdb
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.csproj.AssemblyReference.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.AssemblyInfoInputs.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.AssemblyInfo.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.csproj.CoreCompileInputs.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\refint\CameraDemo.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\CameraDemo.pdb
+C:\Users\dryla\Documents\Tutorial_Projects\CameraDemo\CameraDemo\CameraDemo\obj\Debug\netstandard2.0\ref\CameraDemo.dll

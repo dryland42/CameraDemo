@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6hjbK8Fb5yxLlX48t635RwXr970H0glRk7TLFkgdFTMtrpKOcMCDmW720qJuX4AqQ2dGN2yapkIgKIjc7PyCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dryla\\Documents\\Tutorial_Projects\\CameraDemo\\CameraDemo\\CameraDemo.iOS\\CameraDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dryla\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
